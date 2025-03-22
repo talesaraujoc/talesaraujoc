@@ -2,7 +2,7 @@
 <h2> Data Analyst</h2>
 <h4> Contato: tales.araujocarv@hotmail.com </h4>
 <ul>
-  <li>Pós-graduando em Engenharia e Análise de Dados (CESAR School)</li>
+  <li>Pós-graduado em Engenharia e Análise de Dados (CESAR School)</li>
   <li>Administração (UFPE)</li> 
 </ul>
 <div align="center">
