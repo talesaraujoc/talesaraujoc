@@ -1,4 +1,4 @@
-## Hello there! 👋
+## Hello, World! 👋
 
 <h2>Python Backend | Data & AI Engineering</h2>
 
