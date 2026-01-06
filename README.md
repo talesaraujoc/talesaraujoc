@@ -61,22 +61,13 @@ aplicando boas práticas de engenharia, versionamento e observabilidade.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/talesaraujoc">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesaraujoc&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 📫 Contato
 <div>
   <a href="mailto:tales.araujocarv@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/talesaraujocarv07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
